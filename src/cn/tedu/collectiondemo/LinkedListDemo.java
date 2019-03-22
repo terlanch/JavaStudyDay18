@@ -1,13 +1,4 @@
 package cn.tedu.collectiondemo;
-/*
- * LinkedList的内存是不连续的
- * LinkedList没有默认初始容量,不需要扩容
- * 特点：增删快，查询慢
- * 线程不安全
- * 
- * 
- */
-import java.util.LinkedList;
 
 public class LinkedListDemo {
 	public static void main(String[] args) {
